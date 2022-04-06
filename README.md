@@ -6,7 +6,6 @@
 ![windows](https://img.shields.io/badge/-windows-orange?style=for-the-badge)
 ![centos](https://img.shields.io/badge/-centos-orange?style=for-the-badge)
 ![ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge)
-![deepin](https://img.shields.io/badge/-deepin-orange?style=for-the-badge)
 
 
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
