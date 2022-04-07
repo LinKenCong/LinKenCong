@@ -28,3 +28,7 @@
 ![navicat](https://img.shields.io/badge/-navicat-brightgreen?style=for-the-badge)
 
 ![mysql](https://img.shields.io/badge/-mysql-blueviolet?style=for-the-badge)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinKenCong&layout=compact&card_width=445&custom_title=😊%20Used%20Languages&langs_count=10)](https://github.com/LinKenCong/LinKenCong)
+
+[![info](https://github-readme-stats.vercel.app/api?username=LinKenCong&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats&count_private=true)](https://github.com/LinKenCong/LinKenCong)
