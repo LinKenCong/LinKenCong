@@ -10,14 +10,12 @@
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
 
 ![php](https://img.shields.io/badge/-php-inactive?style=for-the-badge)
-![html](https://img.shields.io/badge/-html-inactive?style=for-the-badge)
 ![sql](https://img.shields.io/badge/-sql-inactive?style=for-the-badge)
 ![c#](https://img.shields.io/badge/-c%23-inactive?style=for-the-badge)
 
 ![React.js](https://img.shields.io/badge/-react.js-blue?style=for-the-badge)
 ![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge)
 ![node.js](https://img.shields.io/badge/-node.js-blue?style=for-the-badge)
-![nuxt.js](https://img.shields.io/badge/-nuxt.js-blue?style=for-the-badge)
 
 ![mysql](https://img.shields.io/badge/-mysql-blueviolet?style=for-the-badge)
 ![postgresql](https://img.shields.io/badge/-postgresql-blueviolet?style=for-the-badge)
